@@ -4,12 +4,16 @@
 
 https://youtu.be/dGS6l2Mz_no
 
+## Google Colab Link
+
+https://colab.research.google.com/drive/1LG2oPVSj9KA1AbSqw8YznL76lIsRlkeO#scrollTo=PnmOPLW7L4YH
+
 ## Badges
 
-[![install](https://github.com/nogibjj/Wenye_Li_Individual_Project_1/actions/workflows/install.yml/badge.svg)](https://github.com/nogibjj/Wenye_Li_Individual_Project_1/actions/workflows/install.yml)
-[![format](https://github.com/nogibjj/Wenye_Li_Individual_Project_1/actions/workflows/format.yml/badge.svg)](https://github.com/nogibjj/Wenye_Li_Individual_Project_1/actions/workflows/format.yml)
-[![lint](https://github.com/nogibjj/Wenye_Li_Individual_Project_1/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/Wenye_Li_Individual_Project_1/actions/workflows/lint.yml)
-[![test](https://github.com/nogibjj/Wenye_Li_Individual_Project_1/actions/workflows/test.yml/badge.svg)](https://github.com/nogibjj/Wenye_Li_Individual_Project_1/actions/workflows/test.yml)
+[![Install](https://github.com/nogibjj/Wenye_Li_Mini_Project_9/actions/workflows/install.yml/badge.svg)](https://github.com/nogibjj/Wenye_Li_Mini_Project_9/actions/workflows/install.yml)
+[![Format](https://github.com/nogibjj/Wenye_Li_Mini_Project_9/actions/workflows/format.yml/badge.svg)](https://github.com/nogibjj/Wenye_Li_Mini_Project_9/actions/workflows/format.yml)
+[![Lint](https://github.com/nogibjj/Wenye_Li_Mini_Project_9/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/Wenye_Li_Mini_Project_9/actions/workflows/lint.yml)
+[![Test](https://github.com/nogibjj/Wenye_Li_Mini_Project_9/actions/workflows/test.yml/badge.svg)](https://github.com/nogibjj/Wenye_Li_Mini_Project_9/actions/workflows/test.yml)
 
 ## Requirements
 
