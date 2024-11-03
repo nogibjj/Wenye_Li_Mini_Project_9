@@ -1,4 +1,4 @@
-# Wenye_Li_Individual_Project_1
+# Wenye Li Mini Project 9
 
 ## Demo Link
 
@@ -67,11 +67,8 @@ The project structure includes the following files:
 - Open codespaces
 - Install dependecies by using `make install` command
 - Format code by using `make format` command
-  ![format Image](format.png)
 - Lint code by using `make lint` command
-  ![lint Image](lint.png)
 - Test code by using `make test` command
-  ![test Image](test.png)
 
 ## Descriptive Stats and Visualizations
 
